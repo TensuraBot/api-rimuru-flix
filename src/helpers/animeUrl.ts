@@ -1,5 +1,5 @@
 const animeUrl = {
-  otakudesu: "https://otakudesu.cloud",
+  otakudesu: "https://otakudesu.best",
 };
 
 export default animeUrl;
